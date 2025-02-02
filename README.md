@@ -32,3 +32,5 @@ https://github.com/Mohini2815/Data-Analysis-Dashboard/blob/main/Vrinda%20Store%2
   To improve sales of Vrinda store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra,Karnataka and UP should be implemented.
 
 ## Dashboard
+
+https://github.com/Mohini2815/Data-Analysis-Dashboard/blob/main/Screenshot%20excel%20dashboard.png
