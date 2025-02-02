@@ -25,7 +25,10 @@ https://github.com/Mohini2815/Data-Analysis-Dashboard/blob/main/Vrinda%20Store%2
 - The adult age group is max contributing and buys the most products.
 - The maximum number of products customer orders from Amazon.
 - More than 90% products are delivered.
+  
 
 
-  ## Final Conclusion
+## Final Conclusion
   To improve sales of Vrinda store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra,Karnataka and UP should be implemented.
+
+## Dashboard
