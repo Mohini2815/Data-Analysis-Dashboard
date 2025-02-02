@@ -13,4 +13,19 @@ https://github.com/Mohini2815/Data-Analysis-Dashboard/blob/main/Vrinda%20Store%2
 - Highest selling category?
 - Percentage of total orders delivered
 
-## Dashboard Interaction
+## Process
+- Verify data for any missing values and anomolies and sort out the same
+- Made sure data is consistent and clean with respect to data type , data format and values used.
+- Created pivot tables according to the questions asked.
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
+## Project Insights
+- Women customers are more likely to buy products compared to men
+- The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyer states.
+- The adult age group is max contributing and buys the most products.
+- The maximum number of products customer orders from Amazon.
+- More than 90% products are delivered.
+
+
+  ## Final Conclusion
+  To improve sales of Vrinda store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra,Karnataka and UP should be implemented.
